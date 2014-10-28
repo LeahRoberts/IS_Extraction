@@ -1,4 +1,4 @@
-Extraction of Features for embl file
+Extraction of Features from embl file
 =====================================
 
 In order to quickly extract insertion Sequences (IS) from an annotated embl file, a Python script was generated. This script extracts IS (based on its key given in the annotation) plus 1 kbp of flanking region either side of the IS. 
